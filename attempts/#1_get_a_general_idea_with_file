@@ -1,8 +1,8 @@
-$ file sample*/* | grep -v \.zip > get_a_general_idea_running_file_on_each_file
+# file sample*/* > get_a_general_idea_running_file_on_each_file
 sample1/00e829b2519f6506b3ddf8bc5eb5af7601018b99ccf362dc5bf25d651045a9c3:  PE32 executable (GUI) Intel 80386, for MS Windows, 4 sections
+sample1/101512df3ce4c79c8f763e779e8d0cf1bfe31089b7107eb384280c3f6adc40b7:  PE32 executable (GUI) Intel 80386, for MS Windows, 4 sections
 sample10/5c196829f37d2efe5ee50771e5feed612b8651d2d7a984b24f2f80fbcf84f9d9: PE32 executable (GUI) Intel 80386, for MS Windows, 5 sections
 sample10/5cd346bce46431bbf5eb546a0447197394b39d95e602c2879c9bd1aa9e355cd1: PE32 executable (GUI) Intel 80386, for MS Windows, 5 sections
-sample1/101512df3ce4c79c8f763e779e8d0cf1bfe31089b7107eb384280c3f6adc40b7:  PE32 executable (GUI) Intel 80386, for MS Windows, 4 sections
 sample11/6da00247e52787bb44caf372ced4e7aa6592cd4490748b9df92c68d076d6388a: PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed, 3 sections
 sample11/716eeeecfdaa7ea5b43a109157d2758b75a7275fb982a0076a053b0baca878bc: PE32 executable (GUI) Intel 80386, for MS Windows, 2 sections
 sample12/73a0eff4b25b824af4b6600db0f637f991b45b0945c9385fd6e7eca289b7e5ed: PE32 executable (GUI) Intel 80386, for MS Windows, 4 sections
@@ -21,10 +21,10 @@ sample18/a8c6430c321a56b4e911bc4a3af2cc95b042558dc64d1c233a76a45f5ca9d154: PE32 
 sample18/ab48e76e43328424bb28fe606daca82dd11a37409202318044793962d52ebeed: PE32 executable (Control Panel Item), for MS Windows, 8 sections
 sample19/b9944cffaf13e3f1e91b28e09ebd470ace90ed207ee3bfd20a0f802a7a61ffac: PE32 executable (GUI) Intel 80386, for MS Windows, 4 sections
 sample19/bab6618397a909b03814b7e743d65ea56b0521d0652215aa09d06263158290ab: PE32 executable (GUI) Intel 80386, for MS Windows, 4 sections
-sample20/c6e4191929c1d4adef3d6c31f86dc2d90576fe6aca9fcd52f546e23d4e049829: PE32 executable (GUI) Intel 80386, for MS Windows, 5 sections
-sample20/c7ac93f7975d993fdc562cbc3f9688bf6bb8f7d2fea16884af22e3d2a61f17a4: PE32 executable (GUI) Intel 80386, for MS Windows, 8 sections
 sample2/123fc368dbf1ca4c0c4e02744b482619595c1243e79716979daeef9ba40db493:  PE32 executable (GUI) Intel 80386, for MS Windows, 4 sections
 sample2/19c7e81c65fd0f76924c69e47abaf1b2b14d66674f956939b136b21987524117:  PE32 executable (GUI) Intel 80386, for MS Windows, 5 sections
+sample20/c6e4191929c1d4adef3d6c31f86dc2d90576fe6aca9fcd52f546e23d4e049829: PE32 executable (GUI) Intel 80386, for MS Windows, 5 sections
+sample20/c7ac93f7975d993fdc562cbc3f9688bf6bb8f7d2fea16884af22e3d2a61f17a4: PE32 executable (GUI) Intel 80386, for MS Windows, 8 sections
 sample21/ca97b6de0314a5977d89a76c62561f7d9f77ddba5db6814e6f0ee1877aa6152d: PE32 executable (GUI) Intel 80386, for MS Windows, 4 sections
 sample21/cd525f51a1bcef4c9c8b60f42525008f83a3042a2e218c487ea8b0c6b7e651cc: PE32 executable (GUI) Intel 80386 (stripped to external PDB), for MS Windows, 7 sections
 sample22/d1ed72922a3e987090ae3465ce27aa582e0101b0211780a0a796684a8f798da9: PE32 executable (GUI) Intel 80386, for MS Windows, 4 sections
