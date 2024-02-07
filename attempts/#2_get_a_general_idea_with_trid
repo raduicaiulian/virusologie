@@ -1,0 +1,403 @@
+# ./trid sample*/* -n:6 > attempts/#2_get_a_general_idea_with_trid
+TrID/32 - File Identifier v2.24 - (C) 2003-16 By M.Pontello
+Definitions found:  17172
+Analyzing...
+
+File: sample1/00e829b2519f6506b3ddf8bc5eb5af7601018b99ccf362dc5bf25d651045a9c3
+ 25.0% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 19.1% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 17.1% (.EXE) Win32 Executable (generic) (4504/4/1)
+  7.8% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  7.8% (.ICL) Windows Icons Library (generic) (2059/9)
+  7.7% (.EXE) OS/2 Executable (generic) (2029/13)
+
+File: sample1/101512df3ce4c79c8f763e779e8d0cf1bfe31089b7107eb384280c3f6adc40b7
+ 25.0% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 19.1% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 17.1% (.EXE) Win32 Executable (generic) (4504/4/1)
+  7.8% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  7.8% (.ICL) Windows Icons Library (generic) (2059/9)
+  7.7% (.EXE) OS/2 Executable (generic) (2029/13)
+
+File: sample10/5c196829f37d2efe5ee50771e5feed612b8651d2d7a984b24f2f80fbcf84f9d9
+ 68.8% (.CPL) Windows Control Panel Item (generic) (57583/11/19)
+ 12.5% (.EXE) Win64 Executable (generic) (10523/12/4)
+  6.0% (.EXE) Win16 NE executable (generic) (5038/12/1)
+  5.3% (.EXE) Win32 Executable (generic) (4504/4/1)
+  2.4% (.EXE) OS/2 Executable (generic) (2029/13)
+  2.3% (.EXE) Generic Win/DOS Executable (2002/3)
+
+File: sample10/5cd346bce46431bbf5eb546a0447197394b39d95e602c2879c9bd1aa9e355cd1
+ 38.8% (.EXE) Win32 Executable MS Visual C++ (generic) (31206/45/13)
+ 20.5% (.EXE) Microsoft Visual C++ compiled executable (generic) (16529/12/5)
+ 13.0% (.EXE) Win64 Executable (generic) (10523/12/4)
+  8.1% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+  6.2% (.EXE) Win16 NE executable (generic) (5038/12/1)
+  5.6% (.EXE) Win32 Executable (generic) (4504/4/1)
+
+File: sample11/6da00247e52787bb44caf372ced4e7aa6592cd4490748b9df92c68d076d6388a
+ 40.8% (.EXE) UPX compressed Win32 Executable (27066/9/6)
+ 40.1% (.EXE) Win32 EXE Yoda's Crypter (26569/9/4)
+  6.7% (.EXE) Win32 Executable (generic) (4504/4/1)
+  3.1% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  3.0% (.EXE) OS/2 Executable (generic) (2029/13)
+  3.0% (.EXE) Generic Win/DOS Executable (2002/3)
+
+File: sample11/716eeeecfdaa7ea5b43a109157d2758b75a7275fb982a0076a053b0baca878bc
+ 30.2% (.EXE) Win64 Executable (generic) (10523/12/4)
+ 18.9% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 14.5% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 12.9% (.EXE) Win32 Executable (generic) (4504/4/1)
+  5.9% (.ICL) Windows Icons Library (generic) (2059/9)
+  5.8% (.EXE) OS/2 Executable (generic) (2029/13)
+
+File: sample12/73a0eff4b25b824af4b6600db0f637f991b45b0945c9385fd6e7eca289b7e5ed
+ 46.6% (.CPL) Windows Control Panel Item (generic) (57583/11/19)
+ 25.2% (.EXE) Win32 Executable MS Visual C++ (generic) (31206/45/13)
+  8.5% (.EXE) Win64 Executable (generic) (10523/12/4)
+  5.3% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+  4.0% (.EXE) Win16 NE executable (generic) (5038/12/1)
+  3.6% (.EXE) Win32 Executable (generic) (4504/4/1)
+
+File: sample12/7435830dd277239d0d032548d6438ba2bcb616cfdbccb1dda7e7e298c295edfd
+ 25.0% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 19.1% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 17.1% (.EXE) Win32 Executable (generic) (4504/4/1)
+  7.8% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  7.8% (.ICL) Windows Icons Library (generic) (2059/9)
+  7.7% (.EXE) OS/2 Executable (generic) (2029/13)
+
+File: sample13/78ca5753c7f93fe3ff553ae23fb87395c36a791b61952eabf6b9d96e59c7862d
+ 33.2% (.SCR) Windows screen saver (13097/50/3)
+ 16.7% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 12.7% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 11.4% (.EXE) Win32 Executable (generic) (4504/4/1)
+  5.2% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  5.2% (.ICL) Windows Icons Library (generic) (2059/9)
+
+File: sample13/7991359d3441e30467bfe3729b0fa1d2d3bfa62a179f0444b6f1269113dde6b0
+ 33.2% (.SCR) Windows screen saver (13097/50/3)
+ 16.7% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 12.7% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 11.4% (.EXE) Win32 Executable (generic) (4504/4/1)
+  5.2% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  5.2% (.ICL) Windows Icons Library (generic) (2059/9)
+
+File: sample14/7fd4b886c5be5e98a4626aa905a5f5110ec1b64d4d1e759016378ffeb25b17dc
+ 27.1% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 20.8% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 18.6% (.EXE) Win32 Executable (generic) (4504/4/1)
+  8.5% (.ICL) Windows Icons Library (generic) (2059/9)
+  8.3% (.EXE) OS/2 Executable (generic) (2029/13)
+  8.2% (.EXE) Generic Win/DOS Executable (2002/3)
+
+File: sample14/8576b2c98153da727dc2d24b611570ccfa0fc718e2712266b3543d738036bc73
+ 27.1% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 20.8% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 18.6% (.EXE) Win32 Executable (generic) (4504/4/1)
+  8.5% (.ICL) Windows Icons Library (generic) (2059/9)
+  8.3% (.EXE) OS/2 Executable (generic) (2029/13)
+  8.2% (.EXE) Generic Win/DOS Executable (2002/3)
+
+File: sample15/8d2c67d2e720df700e9fb16a55c020d454724b2374c42334b40377f0fbc3893e
+ 26.2% (.SCR) Windows screen saver (13097/50/3)
+ 21.0% (.EXE) Win64 Executable (generic) (10523/12/4)
+ 13.1% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 10.0% (.EXE) Win16 NE executable (generic) (5038/12/1)
+  9.0% (.EXE) Win32 Executable (generic) (4504/4/1)
+  4.1% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+
+File: sample15/8de46e6c7e1441c49099d2499e0c1492e8a00989aeacd5508044c216dcba87be
+ 33.2% (.SCR) Windows screen saver (13097/50/3)
+ 16.7% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 12.7% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 11.4% (.EXE) Win32 Executable (generic) (4504/4/1)
+  5.2% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  5.2% (.ICL) Windows Icons Library (generic) (2059/9)
+
+File: sample16/97437cdf7f697beb41d574eac907b4747dbaed7fa288a8aed6a0fa0f802efaae
+ 33.1% (.EXE) InstallShield setup (43053/19/16)
+ 20.4% (.EXE) Win32 EXE Yoda's Crypter (26569/9/4)
+ 10.9% (.EXE) Win32 Executable Delphi generic (14182/79/4)
+ 10.0% (.SCR) Windows screen saver (13097/50/3)
+  8.0% (.EXE) Win64 Executable (generic) (10523/12/4)
+  7.6% (.EXE) DOS Borland compiled Executable (generic) (10000/1/2)
+
+File: sample16/9cf332088a5680ccdb1e66dd33905fa3d59107fd9737923a857a9d0dd9a5ad2b
+ 59.0% (.CPL) Windows Control Panel Item (generic) (57583/11/19)
+ 14.5% (.EXE) Win32 Executable Delphi generic (14182/79/4)
+ 13.4% (.SCR) Windows screen saver (13097/50/3)
+  4.6% (.EXE) Win32 Executable (generic) (4504/4/1)
+  2.1% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  2.0% (.EXE) OS/2 Executable (generic) (2029/13)
+
+File: sample17/a411b625756ed54d299ad0ac967b2d4fd88654710565d4f3d9fcc24241849a88
+ 47.0% (.CPL) Windows Control Panel Item (generic) (57583/11/19)
+ 33.9% (.EXE) Win32 EXE PECompact compressed (generic) (41569/9/9)
+  8.6% (.EXE) Win64 Executable (generic) (10523/12/4)
+  3.6% (.EXE) Win32 Executable (generic) (4504/4/1)
+  1.6% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  1.6% (.EXE) OS/2 Executable (generic) (2029/13)
+
+File: sample17/a5223cd7a4d43de13cb2d0e0fb0b23fbefe89d9f38eb542d18bf0418e2629772
+ 33.2% (.SCR) Windows screen saver (13097/50/3)
+ 16.7% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 12.7% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 11.4% (.EXE) Win32 Executable (generic) (4504/4/1)
+  5.2% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  5.2% (.ICL) Windows Icons Library (generic) (2059/9)
+
+File: sample18/a8c6430c321a56b4e911bc4a3af2cc95b042558dc64d1c233a76a45f5ca9d154
+ 92.7% (.EXE) NSIS - Nullsoft Scriptable Install System (846567/2/133)
+  3.4% (.EXE) Win32 Executable MS Visual C++ (generic) (31206/45/13)
+  1.1% (.EXE) Win64 Executable (generic) (10523/12/4)
+  0.7% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+  0.5% (.EXE) Win16 NE executable (generic) (5038/12/1)
+  0.4% (.EXE) Win32 Executable (generic) (4504/4/1)
+
+File: sample18/ab48e76e43328424bb28fe606daca82dd11a37409202318044793962d52ebeed
+ 26.3% (.EXE) Win32 Executable Delphi generic (14182/79/4)
+ 19.5% (.EXE) Win64 Executable (generic) (10523/12/4)
+ 18.5% (.EXE) DOS Borland compiled Executable (generic) (10000/1/2)
+ 12.2% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+  8.3% (.EXE) Win32 Executable (generic) (4504/4/1)
+  3.8% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+
+File: sample19/b9944cffaf13e3f1e91b28e09ebd470ace90ed207ee3bfd20a0f802a7a61ffac
+ 33.2% (.SCR) Windows screen saver (13097/50/3)
+ 16.7% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 12.7% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 11.4% (.EXE) Win32 Executable (generic) (4504/4/1)
+  5.2% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  5.2% (.ICL) Windows Icons Library (generic) (2059/9)
+
+File: sample19/bab6618397a909b03814b7e743d65ea56b0521d0652215aa09d06263158290ab
+ 33.2% (.SCR) Windows screen saver (13097/50/3)
+ 16.7% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 12.7% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 11.4% (.EXE) Win32 Executable (generic) (4504/4/1)
+  5.2% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  5.2% (.ICL) Windows Icons Library (generic) (2059/9)
+
+File: sample2/123fc368dbf1ca4c0c4e02744b482619595c1243e79716979daeef9ba40db493
+ 33.2% (.SCR) Windows screen saver (13097/50/3)
+ 16.7% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 12.7% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 11.4% (.EXE) Win32 Executable (generic) (4504/4/1)
+  5.2% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  5.2% (.ICL) Windows Icons Library (generic) (2059/9)
+
+File: sample2/19c7e81c65fd0f76924c69e47abaf1b2b14d66674f956939b136b21987524117
+ 47.3% (.EXE) Win32 Executable MS Visual C++ (generic) (31206/45/13)
+ 15.9% (.EXE) Win64 Executable (generic) (10523/12/4)
+  9.9% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+  7.6% (.EXE) Win16 NE executable (generic) (5038/12/1)
+  6.8% (.EXE) Win32 Executable (generic) (4504/4/1)
+  3.1% (.ICL) Windows Icons Library (generic) (2059/9)
+
+File: sample20/c6e4191929c1d4adef3d6c31f86dc2d90576fe6aca9fcd52f546e23d4e049829
+ 68.8% (.CPL) Windows Control Panel Item (generic) (57583/11/19)
+ 12.5% (.EXE) Win64 Executable (generic) (10523/12/4)
+  6.0% (.EXE) Win16 NE executable (generic) (5038/12/1)
+  5.3% (.EXE) Win32 Executable (generic) (4504/4/1)
+  2.4% (.EXE) OS/2 Executable (generic) (2029/13)
+  2.3% (.EXE) Generic Win/DOS Executable (2002/3)
+
+File: sample20/c7ac93f7975d993fdc562cbc3f9688bf6bb8f7d2fea16884af22e3d2a61f17a4
+ 51.9% (.EXE) InstallShield setup (43053/19/16)
+ 17.0% (.EXE) Win32 Executable Delphi generic (14182/79/4)
+ 15.7% (.SCR) Windows screen saver (13097/50/3)
+  5.4% (.EXE) Win32 Executable (generic) (4504/4/1)
+  2.4% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  2.4% (.EXE) OS/2 Executable (generic) (2029/13)
+
+File: sample21/ca97b6de0314a5977d89a76c62561f7d9f77ddba5db6814e6f0ee1877aa6152d
+ 33.2% (.SCR) Windows screen saver (13097/50/3)
+ 16.7% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 12.7% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 11.4% (.EXE) Win32 Executable (generic) (4504/4/1)
+  5.2% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  5.2% (.ICL) Windows Icons Library (generic) (2059/9)
+
+File: sample21/cd525f51a1bcef4c9c8b60f42525008f83a3042a2e218c487ea8b0c6b7e651cc
+ 42.6% (.EXE) Win32 Executable (generic) (4504/4/1)
+ 19.2% (.EXE) OS/2 Executable (generic) (2029/13)
+ 18.9% (.EXE) Generic Win/DOS Executable (2002/3)
+ 18.9% (.EXE) DOS Executable Generic (2000/1)
+  0.2% (.VXD) VXD Driver (29/21)
+
+File: sample22/d1ed72922a3e987090ae3465ce27aa582e0101b0211780a0a796684a8f798da9
+ 27.1% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 20.8% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 18.6% (.EXE) Win32 Executable (generic) (4504/4/1)
+  8.5% (.ICL) Windows Icons Library (generic) (2059/9)
+  8.3% (.EXE) OS/2 Executable (generic) (2029/13)
+  8.2% (.EXE) Generic Win/DOS Executable (2002/3)
+
+File: sample22/d792d91d07ce5241a3918c5060fc8fcc59efe72e806ac20e6ba27ec6d9c37f99
+ 33.1% (.EXE) InstallShield setup (43053/19/16)
+ 20.4% (.EXE) Win32 EXE Yoda's Crypter (26569/9/4)
+ 10.9% (.EXE) Win32 Executable Delphi generic (14182/79/4)
+ 10.0% (.SCR) Windows screen saver (13097/50/3)
+  8.0% (.EXE) Win64 Executable (generic) (10523/12/4)
+  7.6% (.EXE) DOS Borland compiled Executable (generic) (10000/1/2)
+
+File: sample23/dbd5ea6f9d712af8fc067d91d44d9fb1952f370c10ca45dc05592623a35fdf85
+ 47.3% (.EXE) Win32 Executable MS Visual C++ (generic) (31206/45/13)
+ 15.9% (.EXE) Win64 Executable (generic) (10523/12/4)
+  9.9% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+  7.6% (.EXE) Win16 NE executable (generic) (5038/12/1)
+  6.8% (.EXE) Win32 Executable (generic) (4504/4/1)
+  3.1% (.ICL) Windows Icons Library (generic) (2059/9)
+
+File: sample23/e6ae49c4cb94f9bfb36b11aa21e7d4b80f97d8be66867c8ee7714f7ede51669b
+ 26.2% (.SCR) Windows screen saver (13097/50/3)
+ 21.0% (.EXE) Win64 Executable (generic) (10523/12/4)
+ 13.1% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 10.0% (.EXE) Win16 NE executable (generic) (5038/12/1)
+  9.0% (.EXE) Win32 Executable (generic) (4504/4/1)
+  4.1% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+
+File: sample24/e8380d92afaeefbdb55ddea00ab37b031b6d70e72565ddc02627d578100e85c4
+ 68.8% (.CPL) Windows Control Panel Item (generic) (57583/11/19)
+ 12.5% (.EXE) Win64 Executable (generic) (10523/12/4)
+  6.0% (.EXE) Win16 NE executable (generic) (5038/12/1)
+  5.3% (.EXE) Win32 Executable (generic) (4504/4/1)
+  2.4% (.EXE) OS/2 Executable (generic) (2029/13)
+  2.3% (.EXE) Generic Win/DOS Executable (2002/3)
+
+File: sample24/ee0a679844146e3d0eb623dc874b4d5ff151dddf16582774299ff65bcfff5b44
+ 27.1% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 20.8% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 18.6% (.EXE) Win32 Executable (generic) (4504/4/1)
+  8.5% (.ICL) Windows Icons Library (generic) (2059/9)
+  8.3% (.EXE) OS/2 Executable (generic) (2029/13)
+  8.2% (.EXE) Generic Win/DOS Executable (2002/3)
+
+File: sample25/f37b053075108a522d1b2ca9037295b2359227352a4d7683395df35aaae607f2
+ 33.2% (.SCR) Windows screen saver (13097/50/3)
+ 16.7% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 12.7% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 11.4% (.EXE) Win32 Executable (generic) (4504/4/1)
+  5.2% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  5.2% (.ICL) Windows Icons Library (generic) (2059/9)
+
+File: sample25/f3f8f99cfb9bf943038704650912596993a339afeec5e0db5afdadd3a8b66094
+ 47.3% (.EXE) Win32 Executable MS Visual C++ (generic) (31206/45/13)
+ 15.9% (.EXE) Win64 Executable (generic) (10523/12/4)
+  9.9% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+  7.6% (.EXE) Win16 NE executable (generic) (5038/12/1)
+  6.8% (.EXE) Win32 Executable (generic) (4504/4/1)
+  3.1% (.ICL) Windows Icons Library (generic) (2059/9)
+
+File: sample3/1b4c247cdc30a714b9c38cbc6a4d62c4bcfadfc36cdf996e8f9d931057d8e6a3
+ 52.2% (.EXE) Win32 EXE Yoda's Crypter (26569/9/4)
+ 12.9% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+  9.9% (.EXE) Win16 NE executable (generic) (5038/12/1)
+  8.8% (.EXE) Win32 Executable (generic) (4504/4/1)
+  4.0% (.ICL) Windows Icons Library (generic) (2059/9)
+  3.9% (.EXE) OS/2 Executable (generic) (2029/13)
+
+File: sample3/204e71a886288bb5d37336b601c608f2b2ce3b8cf3003adef9a3db70d13f0257
+ 26.2% (.SCR) Windows screen saver (13097/50/3)
+ 21.0% (.EXE) Win64 Executable (generic) (10523/12/4)
+ 13.1% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 10.0% (.EXE) Win16 NE executable (generic) (5038/12/1)
+  9.0% (.EXE) Win32 Executable (generic) (4504/4/1)
+  4.1% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+
+File: sample4/2320d0a07b733655e9de57bc1a11888736b7ad37d11f63e48f6552c10d4c3609
+ 40.8% (.EXE) UPX compressed Win32 Executable (27066/9/6)
+ 40.1% (.EXE) Win32 EXE Yoda's Crypter (26569/9/4)
+  6.7% (.EXE) Win32 Executable (generic) (4504/4/1)
+  3.1% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  3.0% (.EXE) OS/2 Executable (generic) (2029/13)
+  3.0% (.EXE) Generic Win/DOS Executable (2002/3)
+
+File: sample4/2391d4e6b02d6ba9ce47ca34a88260c83c2f72a0886932be5a63c117a31c9488
+ 33.2% (.SCR) Windows screen saver (13097/50/3)
+ 16.7% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 12.7% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 11.4% (.EXE) Win32 Executable (generic) (4504/4/1)
+  5.2% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  5.2% (.ICL) Windows Icons Library (generic) (2059/9)
+
+File: sample5/2d578f65f84448628a239c640ad82ae97d722a75d2c17884013d9987a0a88357
+ 27.1% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 20.8% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 18.6% (.EXE) Win32 Executable (generic) (4504/4/1)
+  8.5% (.ICL) Windows Icons Library (generic) (2059/9)
+  8.3% (.EXE) OS/2 Executable (generic) (2029/13)
+  8.2% (.EXE) Generic Win/DOS Executable (2002/3)
+
+File: sample5/364040375650bf968b7503de130ecf17b8194f47825847e98149446acd741e50
+ 40.8% (.EXE) UPX compressed Win32 Executable (27066/9/6)
+ 40.1% (.EXE) Win32 EXE Yoda's Crypter (26569/9/4)
+  6.7% (.EXE) Win32 Executable (generic) (4504/4/1)
+  3.1% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  3.0% (.EXE) OS/2 Executable (generic) (2029/13)
+  3.0% (.EXE) Generic Win/DOS Executable (2002/3)
+
+File: sample6/3cf941e26c31c46e38122d7221adc77ebab09a1ac0e1c5abc5ddd04e16335da0
+ 35.5% (.EXE) Win32 Executable Delphi generic (14182/79/4)
+ 32.8% (.SCR) Windows screen saver (13097/50/3)
+ 11.2% (.EXE) Win32 Executable (generic) (4504/4/1)
+  5.1% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  5.0% (.EXE) OS/2 Executable (generic) (2029/13)
+  5.0% (.EXE) Generic Win/DOS Executable (2002/3)
+
+File: sample6/3cfac63b3fe9bfb358097541453facb33be788e142f10f7ee04f30f68e2a2c61
+ 27.1% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 20.8% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 18.6% (.EXE) Win32 Executable (generic) (4504/4/1)
+  8.5% (.ICL) Windows Icons Library (generic) (2059/9)
+  8.3% (.EXE) OS/2 Executable (generic) (2029/13)
+  8.2% (.EXE) Generic Win/DOS Executable (2002/3)
+
+File: sample7/3f7bb036eef312a9c1fca60105f1b87235dc8b14d617e415f95a7043f9efe917
+ 25.0% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 19.1% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 17.1% (.EXE) Win32 Executable (generic) (4504/4/1)
+  7.8% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  7.8% (.ICL) Windows Icons Library (generic) (2059/9)
+  7.7% (.EXE) OS/2 Executable (generic) (2029/13)
+
+File: sample7/411a00fea7aaa5e1e4fa152c0649fefc8a84e465d3d8a11bed1a7b322cb73bb7
+ 26.2% (.SCR) Windows screen saver (13097/50/3)
+ 21.0% (.EXE) Win64 Executable (generic) (10523/12/4)
+ 13.1% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 10.0% (.EXE) Win16 NE executable (generic) (5038/12/1)
+  9.0% (.EXE) Win32 Executable (generic) (4504/4/1)
+  4.1% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+
+File: sample8/42ed4ab65535ae382ed00a954a564bd13ac77731311400378af90bce2a463521
+ 27.1% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 20.8% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 18.6% (.EXE) Win32 Executable (generic) (4504/4/1)
+  8.5% (.ICL) Windows Icons Library (generic) (2059/9)
+  8.3% (.EXE) OS/2 Executable (generic) (2029/13)
+  8.2% (.EXE) Generic Win/DOS Executable (2002/3)
+
+File: sample8/5b3ed204bf794afc4d32c750e74a219c4730b2a96ded36c6ea2753581158ab11
+ 25.0% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 19.1% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 17.1% (.EXE) Win32 Executable (generic) (4504/4/1)
+  7.8% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  7.8% (.ICL) Windows Icons Library (generic) (2059/9)
+  7.7% (.EXE) OS/2 Executable (generic) (2029/13)
+
+File: sample9/5bb633fef2f50ca5ec2302ea37800f68c76596ef770c394e706f57a5d655feac
+ 25.0% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 19.1% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 17.1% (.EXE) Win32 Executable (generic) (4504/4/1)
+  7.8% (.EXE) Win16/32 Executable Delphi generic (2072/23)
+  7.8% (.ICL) Windows Icons Library (generic) (2059/9)
+  7.7% (.EXE) OS/2 Executable (generic) (2029/13)
+
+File: sample9/5c0e7e0eaf646ac019130e4faf545ddf528008afc55917e5f34587ba4d0934aa
+ 27.1% (.DLL) Win32 Dynamic Link Library (generic) (6578/25/2)
+ 20.8% (.EXE) Win16 NE executable (generic) (5038/12/1)
+ 18.6% (.EXE) Win32 Executable (generic) (4504/4/1)
+  8.5% (.ICL) Windows Icons Library (generic) (2059/9)
+  8.3% (.EXE) OS/2 Executable (generic) (2029/13)
+  8.2% (.EXE) Generic Win/DOS Executable (2002/3)
